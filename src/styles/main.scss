@@ -2,8 +2,21 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
+  background-color: black;
+  color: white;
   text-align: center;
   margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #474747;
+  height: 370px;
+  width: 350px;
+}
+
+.card-link {
+  background-color: black;
 }
